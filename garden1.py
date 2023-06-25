@@ -62,8 +62,6 @@ print([(token, token.orth_, token.orth) for token in doc4])
 print("\n")
 
 
-# To be honest the instructions on this task were really quite unclear and I have been left feeling
-# lost on what specifically I need to do for this task including the dockerfile part
 
 
 
